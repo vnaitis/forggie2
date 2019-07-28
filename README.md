@@ -12,7 +12,7 @@ This software uses Python 3.
 
 On GNU/Linux:
 ```
-$ git clone ...
+$ git clone https://github.com/vnaitis/forggie2.git
 $ virtualenv --python=python3 virtpy3
 $ source virtpy3/bin/activate
 $ cd forggie2
